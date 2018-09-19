@@ -1,9 +1,9 @@
 {
-  "name": "cordova-plugin-apprate",
-  "version": "1.4.0",
+  "name": "lycwed-cordova-plugin-apprate",
+  "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pushandplay/cordova-plugin-apprate"
+    "url": "https://github.com/lycwed/lycwed-cordova-plugin-apprate"
   },
   "dependencies": {},
   "devDependencies": {
